@@ -20,29 +20,31 @@
 
 ## Screenshot
 
-**General look of the component**
+<h2>General look of the component</h2>
+
 ![alt text](image.png)
 
-**Adding users by clicking on the email**
+<h2>Adding users by clicking on the email</h2>
+
 ![](image-1.png)
 
-**Auto-complete**
+<h2>Auto-complete</h2>
 
 ![alt text](image-2.png)
 
-**Adding a new email**
+<h2>Adding a new email</h2>
 
 ![alt text](image-6.png)
 
-**Selected Recipients**
+<h2>Selected Recipients</h2>
 
 ![alt text](image-3.png)
 
-**When a company domain is selected, all emails with the domain are added to the selected recipients’ list**
+<h2>When a company domain is selected, all emails with the domain are added to the selected recipients’ list</h2>
 
 ![alt text](image-4.png)
 
-**When adding an already selected email it gives a notification also when adding a new email the component gives a natification**
+<h2>When adding an already selected email it gives a notification also when adding a new email the component gives a natification</h2>
 
 ![alt text](image-5.png)
 
