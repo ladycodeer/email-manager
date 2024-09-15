@@ -1,4 +1,4 @@
-**Email Manager Component**
+<h1>Email Manager Component</h1>
 
 ## Features
 
@@ -27,23 +27,29 @@
 ![](image-1.png)
 
 **Auto-complete**
+
 ![alt text](image-2.png)
 
 **Adding a new email**
+
 ![alt text](image-6.png)
 
 **Selected Recipients**
+
 ![alt text](image-3.png)
 
 **When a company domain is selected, all emails with the domain are added to the selected recipients’ list**
+
 ![alt text](image-4.png)
 
 **When adding an already selected email it gives a notification also when adding a new email the component gives a natification**
+
 ![alt text](image-5.png)
 
-**Used References**
-[React Documentation](https://react.dev/)
-[Material-UI Documentation](https://mui.com/)
-[Tailwind CSS Documentation](https://tailwindcss.com/docs/installation)
-[TypeScript Documentation](https://www.typescriptlang.org/docs/)
-[ChatGPT](https://chatgpt.com/)
+## Used References
+
+- [React Documentation](https://react.dev/)
+- [Material-UI Documentation](https://mui.com/)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs/installation)
+- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+- [ChatGPT](https://chatgpt.com/)
